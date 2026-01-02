@@ -72,7 +72,7 @@ Model performance was evaluated using:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 - Python
@@ -84,9 +84,10 @@ Model performance was evaluated using:
 - Scikit-learn
 - TensorFlow / Keras
 - XGBoost
+- Tkinter (for UI)
 
 ### Tools
-- VS Code
+- Jupyter Notebook
 - Git & GitHub
 
 ---
